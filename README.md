@@ -1,4 +1,4 @@
 # Hi
 
-I build random shit
+I build random stuff
 
